@@ -10,7 +10,7 @@ max-width="400px" width="400px" align="left">
 </p>
 
 <p align="left">
-   <a href="linkedin.com/in/gessyca-moreira-907041209/">
+   <a href="https://www.linkedin.com/in/gessyca-moreira-907041209/">
     <img alt="logo Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gessyca-moreira-907041209/">
   </a>
 </p>
