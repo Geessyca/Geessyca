@@ -7,7 +7,7 @@
  <h1>Gessyca Moreira</h1>
   <b>Software Developer & Researcher in AI and Robotics</b>
   <br/>
-  <a href="#research"><img src="https://img.shields.io/badge/Research-6-purple?style=flat-square" alt="Research"></a>
+  <a href="#research"><img src="https://img.shields.io/badge/Research-7-purple?style=flat-square" alt="Research"></a>
   <a href="#publications"><img src="https://img.shields.io/badge/Publications-2-pink?style=flat-square" alt="Publications"></a>
 </div>
 
@@ -65,36 +65,47 @@
 </table>
 
 <h2 id="research">Research</h2>
-
 <table>
   <tr>
     <th>Title</th>
     <th>Institution</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><b>Application of Reinforcement Learning for Navigation and Autonomous Control of Mobile Robots in Simulated Environments</b></td>
+    <td>Independent Research</td>
+    <th> 📝 In Progress</th>
   </tr>
   <tr>
     <td><b>Conversational Robotics Program</b></td>
     <td>Louisiana State University</td>
+    <th> 📝 In Progress</th>
   </tr>
   <tr>
     <td><b>Women in Open-Source Software (OSS)</b></td>
     <td>Louisiana State University</td>
+    <th> ✅ Completed w/ publication</th>
   </tr>
   <tr>
     <td><b>An Interactive Educational Platform for Introducing Genetic Algorithm Concepts</b></td>
     <td>Federal Institute of Minas Gerais</td>
+    <th> ✅ Completed w/ publication</th>
   </tr>
 
   <tr>
     <td><b>Hyperparameter Optimization of DQN Neural Networks Using Genetic Algorithms [Undergraduate Thesis]</b></td>
     <td>Federal Institute of Minas Gerais</td>
+    <th> ✅ Completed</th>
   </tr>
   <tr>
     <td><b>A Predictive Maintenance Methodology Using Internet of Things and Machine Learning</b></td>
     <td> Federal University of São João Del Rei</td>
+    <th> ✅ Completed</th>
   </tr>
   <tr>
     <td><b>Solar energy: Development, in Arduino, of a solar radiation measurement system to be used to maintain photovoltaic plants</b></td>
     <td>Federal Institute of Minas Gerais</td>
+    <th> ✅ Completed</th>
   </tr>
 </table>
 
