@@ -48,7 +48,7 @@
     <td><b>womeninoss.com: Supporting women's participation in OSS communities</b></td>
     <td><a href="https://cbsoft.sbc.org.br/2025/sbes/?lang=en">SBES 2025</a></td>
     <td>
-      <a>Article [unavailable]</a> | 
+      <a href="https://sol.sbc.org.br/index.php/sbes/article/view/37074/36859">Article</a> | 
       <a href="https://womeninoss.com/">Website</a> | 
       <a href="https://github.com/riseatlsu/womeninoss.com">Repository</a>
     </td>
@@ -57,7 +57,7 @@
     <td><b>An Interactive Educational Platform for Introducing Genetic Algorithm Concepts</b></td>
     <td><a href="https://ihc.sbc.org.br/2025/index.php/en/home/">IHC 2025</a></td>
     <td>
-      <a >Article [unavailable] </a> | 
+      <a href="https://drive.google.com/file/d/1cKtUXyshwrNxsQjRkNu1__KBMw5_mRLa/view">Article [consultation version] </a> | 
       <a href="https://agif1.vercel.app/">Website</a> | 
       <a href="https://github.com/Geessyca/genetic-algorithm-edu-platform">Repository</a>
     </td>
