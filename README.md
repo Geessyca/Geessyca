@@ -14,18 +14,27 @@
 ---
 
 <blockquote>
-  Passionate about advancing research and developing innovative solutions in <b>Artificial Intelligence</b> and <b>Robotics</b>. Currently a <b>Software Developer</b> at Clavis Information Systems and <b>Volunteer Researcher</b> at LSU.
+  Passionate about advancing research and developing innovative solutions in <b>Artificial Intelligence</b> and <b>Robotics</b>. Currently a <b>Software Developer</b> at Clavis Information Systems and <b>Independent Researcher</b>.
 </blockquote>
 
 <ul>
   <li>💻 <b>Software Developer</b></li>
   <li>🤖 <b>Robotics & Intelligent Systems Researcher</b></li>
-  <li>🔬 <b>Volunteer Researcher at LSU</b></li>
+  <li>🔬 <b>Independent Researcher</b></li>
   <li>🌱 <b>Continuous learner & science enthusiast</b></li>
 </ul>
 
 <details>
   <summary><b>Update 2025</b></summary>
+   <blockquote>
+    September 24th: Paper presentation at SBES 2025.
+   </blockquote>
+   <blockquote>
+    September 08th: Poster presentation at IHC 2025.
+   </blockquote>
+   <blockquote>
+    August 30th: Concludes my collaboration with LSU's RISE Lab.
+  </blockquote>
    <blockquote>
     August 26th: I performed a major cleanup of my GitHub, keeping only the repositories most relevant to my current research and professional interests.
   </blockquote>
@@ -79,7 +88,7 @@
   <tr>
     <td><b>Conversational Robotics Program</b></td>
     <td>Louisiana State University</td>
-    <th> 📝 In Progress</th>
+    <th> 🔒 Discontinued</th>
   </tr>
   <tr>
     <td><b>Women in Open-Source Software (OSS)</b></td>
