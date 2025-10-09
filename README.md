@@ -22,7 +22,10 @@
   <li>🤖 <b>Robotics & Intelligent Systems Researcher</b></li>
   <li>🔬 <b>Independent Researcher</b></li>
   <li>🌱 <b>Continuous learner & science enthusiast</b></li>
+  <li>🎓 <b><a target="_blank" href="https://scholar.google.com.br/citations?user=LWFBvhgAAAAJ&hl">My Google Scholar profile</a></b></li>
 </ul>
+
+  <br/> 
 
 <details>
   <summary><b>Update 2025</b></summary>
@@ -55,20 +58,20 @@
   </tr>
   <tr>
     <td><b>womeninoss.com: Supporting women's participation in OSS communities</b></td>
-    <td><a href="https://cbsoft.sbc.org.br/2025/sbes/?lang=en">SBES 2025</a></td>
+    <td><a target="_blank" href="https://cbsoft.sbc.org.br/2025/sbes/?lang=en">SBES 2025</a></td>
     <td>
-      <a href="https://sol.sbc.org.br/index.php/sbes/article/view/37074/36859">Article</a> | 
-      <a href="https://womeninoss.com/">Website</a> | 
-      <a href="https://github.com/riseatlsu/womeninoss.com">Repository</a>
+      <a target="_blank" href="https://sol.sbc.org.br/index.php/sbes/article/view/37074/36859">Article</a> | 
+      <a target="_blank" href="https://womeninoss.com/">Website</a> | 
+      <a target="_blank" href="https://github.com/riseatlsu/womeninoss.com">Repository</a>
     </td>
   </tr>
   <tr>
     <td><b>An Interactive Educational Platform for Introducing Genetic Algorithm Concepts</b></td>
-    <td><a href="https://ihc.sbc.org.br/2025/index.php/en/home/">IHC 2025</a></td>
+    <td><a target="_blank" href="https://ihc.sbc.org.br/2025/index.php/en/home/">IHC 2025</a></td>
     <td>
-      <a href="https://drive.google.com/file/d/1cKtUXyshwrNxsQjRkNu1__KBMw5_mRLa/view">Article [consultation version] </a> | 
-      <a href="https://agif1.vercel.app/">Website</a> | 
-      <a href="https://github.com/Geessyca/genetic-algorithm-edu-platform">Repository</a>
+      <a target="_blank" href="https://drive.google.com/file/d/1cKtUXyshwrNxsQjRkNu1__KBMw5_mRLa/view">Article [consultation version] </a> | 
+      <a target="_blank" href="https://agif1.vercel.app/">Website</a> | 
+      <a target="_blank" href="https://github.com/Geessyca/genetic-algorithm-edu-platform">Repository</a>
     </td>
   </tr>
 </table>
