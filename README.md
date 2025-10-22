@@ -69,7 +69,7 @@
     <td><b>An Interactive Educational Platform for Introducing Genetic Algorithm Concepts</b></td>
     <td><a target="_blank" href="https://ihc.sbc.org.br/2025/index.php/en/home/">IHC 2025</a></td>
     <td>
-      <a target="_blank" href="https://drive.google.com/file/d/1cKtUXyshwrNxsQjRkNu1__KBMw5_mRLa/view">Article [consultation version] </a> | 
+      <a target="_blank" href="https://sol.sbc.org.br/index.php/ihc_estendido/article/view/37763/37545">Article</a> | 
       <a target="_blank" href="https://agif1.vercel.app/">Website</a> | 
       <a target="_blank" href="https://github.com/Geessyca/genetic-algorithm-edu-platform">Repository</a>
     </td>
