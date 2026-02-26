@@ -34,7 +34,14 @@ I’m a software engineer, working across **front-end, back-end, and data engine
 
 
   <br/> 
-
+<details>
+  <summary><b>Update 2026</b></summary>
+  <blockquote>
+    February 25th — Working on v0.1 (private) of the AI-generated React component system.  </blockquote>
+  <blockquote>
+    March — Begin development of the neural network optimization framework (evolved from my undergraduate thesis).
+  </blockquote>
+</details>
 <details>
   <summary><b>Update 2025</b></summary>
    <blockquote>
@@ -52,10 +59,8 @@ I’m a software engineer, working across **front-end, back-end, and data engine
    <blockquote>
     August 15th: I finished my degree in information systems.
   </blockquote>
-
    <blockquote>
-    completed a personal project inspired by the Christmas season. It’s a movie recommendation system using Content-Based Recommendation, which you can check out here: <a target="_blank" href="https://github.com/Geessyca/ml_xmas_recommender">GitHub link</a>.
-
+    December 22nd: Completed a personal project inspired by the Christmas season. It’s a movie recommendation system using Content-Based Recommendation, which you can check out here: <a target="_blank" href="https://github.com/Geessyca/ml_xmas_recommender">GitHub link</a>.
   </blockquote>
 </details>
 
