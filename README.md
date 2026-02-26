@@ -13,7 +13,7 @@ Python · ReactJS · Kotlin · Artificial Intelligence (AI) · Machine Learning 
 <br/>
 <a href="#research"><img src="https://img.shields.io/badge/Research-7-pink?style=flat-square" alt="Research"></a>
 <a href="#publications"><img src="https://img.shields.io/badge/Publications-2-purple?style=flat-square" alt="Publications"></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Personal%20Projects-1-pink?style=flat-square" alt="Personal Projects"></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Personal%20Projects-2-pink?style=flat-square" alt="Personal Projects"></a>
 </div>
 
 ---
@@ -102,6 +102,11 @@ I’m a software engineer, working across **front-end, back-end, and data engine
     <th>Status</th>
   </tr>
   <tr>
+    <td><b>NN Optimization Framework</b></td>
+    <td>Independent Research</td>
+    <th>🧪 In Development</th>
+  </tr>
+  <tr>
     <td><b>Conversational Robotics Program</b></td>
     <td>Louisiana State University</td>
     <th> 🔒 Discontinued</th>
@@ -138,6 +143,13 @@ I’m a software engineer, working across **front-end, back-end, and data engine
   <tr>
     <th>Title</th>
     <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>AI-Generated React Component System</b></td>
+    <td>
+      A bring-your-own-AI React component generator that allows users to plug in their own model to generate UI components from prompts.
+      <i>Private Repository</i>
+    </td>
   </tr>
   <tr>
     <td><b>Survey-Based Movie Recommender</b></td>
