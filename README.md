@@ -6,7 +6,7 @@
 
 # 👋 Hi, I’m Gessyca
 
-**Software Engineer**
+**Software Developer**
 Python · ReactJS · Kotlin · Artificial Intelligence (AI) · Machine Learning (ML) · LLM
 
 </b>
@@ -38,6 +38,8 @@ I’m a software engineer, working across **front-end, back-end, and data engine
   <summary><b>Update 2026</b></summary>
   <blockquote>
     February 25th — Working on v0.1 (private) of the AI-generated React component system.  </blockquote>
+  <blockquote>
+    March 16th — Begin the Graduate Certificate in Artificial and Computational Intelligence at Federal University of Viçosa, Brazil.  </blockquote>
   <blockquote>
     March — Begin development of the neural network optimization framework (evolved from my undergraduate thesis).
   </blockquote>
